@@ -7,9 +7,6 @@ Do it yourself battery management system for Lithium ion battery packs/cells
 
 If you are looking for version 4 of this project take a look here https://github.com/stuartpittaway/diyBMSv4
 
-# TRAVIS-CI
-TODO
-
 # Videos on how to use and build
 
 https://www.youtube.com/stuartpittaway
@@ -76,7 +73,7 @@ ATTINY841 provides:
 
 # How as v5 improved over v4?
 
-* Highter discharge current
+* Greater discharge current
 * Better thermal design for the passive balancing tecnique
 * Inductive Active Balancing - Low heat production, less energy loss from your PV
 

@@ -1,5 +1,5 @@
 # diyBMSv5_module_circuit
-Version 5 of the diyBMS, this repository contains the pcb project
+Version 5 of the diyBMS, this repository contains the pcb project for the cell module
 
 THIS IS A WIP VERSION, SO LAST MINUTE CHANGES COULD BE DONE!
 
@@ -7,9 +7,10 @@ Do it yourself battery management system for Lithium ion battery packs/cells
 
 If you are looking for version 4 of this project take a look here https://github.com/stuartpittaway/diyBMSv4
 
-# Videos on how to use and build
+# How to use, build & support
 
 https://www.youtube.com/stuartpittaway
+https://community.openenergymonitor.org/t/diybms-active-balancing/12445/7
 
 
 # WARNING
@@ -46,8 +47,6 @@ You do not have to comply with the license for elements of the material in the p
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-Full license available https://github.com/diyBMS/diyBMSv5_module_circuit/blob/master/LICENSE
-
 
 # Problem
 
@@ -59,9 +58,13 @@ Existing balancing solutions are available in the market place, but at a relativ
 
 # How it works
 
-Each cell in a battery pack has a monitoring module. Each module have a micro on it that manage all the important task to keep the pack safe. This uses AVR ATTINY841 linked together by optoisolated serial ports for communication.
+Each cell in a battery pack has a monitoring module. Each module have a micro on it that manage all the important task to keep the pack safe. 
+This uses AVR ATTINY841 linked together by optoisolated serial ports for communication.
 
-The controller enable a BYPASS resistor, parallel to the CELL, to dump additional power during charge to keep the pack balanced. Another solution is to enable the Active Balancing, this feature is based on the ETA3000 chip. It is able to move power between adiacent cells. A more detailed teory of operation about this inductive converter chip can be read here:
+The MCU enable a BYPASS resistor, parallel to the CELL, to dump additional power during charge to keep the pack balanced.
+Another solution is to enable the Active Balancing, this feature is based on the ETA3000 chip. It is able to move power between adiacent cells.
+
+A more detailed teory of operation about this inductive converter chip can be read here:
  - https://www.beyondlogic.org/review-li-ion-lipo-lifepo4-lithium-battery-active-equalizer-balancer-energy-transfer-board/
  - https://circuitdigest.com/article/cell-balancing-techniques-and-how-to-use-them
 

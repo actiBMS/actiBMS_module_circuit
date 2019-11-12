@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\Users\Hitech95\Documents\Altium\Projects\diyBMS\Project Outputs for diyBMS\Pick Place for board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/11/19
+Time:       17:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Footprint                Center-X(mm) Center-Y(mm) Rotation Description                         Supplier SuppliersPartNumber 
+J6         TopLayer PINHEADER_6POS_2ROW_2.54 33.5400      11.1700      90       ""                                  ""       ""                  
+J5         TopLayer JST_PH_S2B               31.0000      36.5000      90       "JST-PH Conn"                       LC       C173752             
+J3         TopLayer JST_PH_S3B               31.0000      19.5000      90       "JST-PH Conn"                       LC       C157929             
+J1         TopLayer JST_PH_S4B               27.5000      42.5000      180      "JST-PH Conn"                       LC       C157926             
+J2         TopLayer JST_PH_S2B               14.5000      42.5000      180      "JST-PH Conn"                       LC       C173752             
+U3         TopLayer DFN2x2-8L                27.0000      32.5000      180      "Inductive Cell Balancer IC"        ""       ""                  
+LED1       TopLayer LED3535_4P               35.8000      42.1000      360      "RGB Addressable LED"               LC       C114583             
+L1         TopLayer 3521_L                   33.5000      30.0000      270      "Power Inductor"                    LC       C55366              
+U2         TopLayer HMHA2801                 20.0000      45.0000      90       Optocoupler                         LC       C258257             
+U1         TopLayer SOIC-14_150mil           20.6000      13.6900      270      "AtTiny AVR"                        LC       C219103             
+R17        TopLayer 0805_R                   18.0000      32.5000      360      "Chip resistor"                     LC       C17737              
+R16        TopLayer 0805_R                   18.0000      35.0000      360      "Chip resistor"                     LC       C17713              
+R15        TopLayer 0805_R                   27.0000      25.1000      180      "Chip resistor"                     LC       C17520              
+R12        TopLayer 0805_R                   10.5000      2.5000       360      "Chip resistor"                     LC       C17713              
+R11        TopLayer 0805_R                   14.5000      5.0000       180      "Chip resistor"                     LC       C17734              
+R10        TopLayer 0805_R                   10.5000      5.0000       360      "Chip resistor"                     LC       C17520              
+R9         TopLayer 0805_R                   18.0000      39.0000      180      "Chip resistor"                     LC       C17713              
+R8         TopLayer 0805_R                   22.0000      39.0000      360      "Chip resistor"                     LC       C17734              
+R7         TopLayer 0805_R                   22.5000      19.5000      360      "Chip resistor"                     LC       C17713              
+R6         TopLayer 0805_R                   18.0000      25.0000      180      "Chip resistor"                     LC       C17713              
+R5         TopLayer 0805_R                   8.0000       25.0000      180      "NTC Resistor 47K 5%"               LC       C113141             
+R4         TopLayer 0805_R                   22.5000      30.0000      180      "Chip resistor"                     LC       C17733              
+R3         TopLayer 0805_R                   18.0000      30.0000      180      "Chip resistor"                     LC       C17680              
+R2         TopLayer 0805_R                   18.0000      27.5000      180      "Chip resistor"                     LC       C17513              
+R1         TopLayer 0805_R                   18.0000      22.5000      360      "Chip resistor"                     LC       C17414              
+Q2         TopLayer SOT-23(SOT-23-3)         22.5000      36.0000      180      MOSFET-N                            LC       C143946             
+Q1         TopLayer SOT-23(SOT-23-3)         18.5000      3.7000       270      MOSFET-N                            LC       C143946             
+PR12       TopLayer 2512_R                   13.0000      11.0000      90       "Chip resistor"                     LC       C49298              
+PR11       TopLayer 2512_R                   13.0000      19.5000      90       "Chip resistor"                     LC       C49298              
+PR10       TopLayer 2512_R                   13.0000      28.0000      90       "Chip resistor"                     LC       C49298              
+PR9        TopLayer 2512_R                   13.0000      36.5000      90       "Chip resistor"                     LC       C49298              
+PR8        TopLayer 2512_R                   8.0000       11.0000      90       "Chip resistor"                     LC       C49298              
+PR7        TopLayer 2512_R                   8.0000       19.5000      90       "Chip resistor"                     LC       C49298              
+PR6        TopLayer 2512_R                   8.0000       30.5000      90       "Chip resistor"                     LC       C49298              
+PR5        TopLayer 2512_R                   8.0000       39.0000      90       "Chip resistor"                     LC       C49298              
+PR4        TopLayer 2512_R                   3.0000       11.0000      90       "Chip resistor"                     LC       C49298              
+PR3        TopLayer 2512_R                   3.0000       19.5000      90       "Chip resistor"                     LC       C49298              
+PR2        TopLayer 2512_R                   3.0000       28.1000      90       "Chip resistor"                     LC       C49298              
+PR1        TopLayer 2512_R                   3.0000       36.6000      90       "Chip resistor"                     LC       C49298              
+D3         TopLayer 0805_LED_S1              7.0000       4.3000       90       LED                                 LC       C2295               
+D2         TopLayer 0805_LED_S1              27.0000      27.5000      360      LED                                 LC       C2293               
+D1         TopLayer SOT-23(SOT-23-3)         22.5000      24.0000      180      "Precision Shunt Voltage Reference" ""       ""                  
+C7         TopLayer 0805_C                   27.0000      30.0000      360      "Chip capacitors"                   LC       C15850              
+C6         TopLayer 0805_C                   29.8000      30.7000      90       "Chip capacitors"                   LC       C15850              
+C5         TopLayer 0805_C                   27.0000      35.0000      180      "Chip capacitors"                   LC       C1710               
+C4         TopLayer 0805_C                   22.5000      32.5000      180      "Chip capacitors"                   LC       C51210              
+C3         TopLayer 0805_C                   14.5000      2.5000       180      "Chip capacitors"                   LC       C15850              
+C2         TopLayer 0805_C                   22.5000      27.5000      180      "Chip capacitors"                   LC       C49217              
+C1         TopLayer 0805_C                   18.0000      19.5000      180      "Chip capacitors"                   LC       C49678              

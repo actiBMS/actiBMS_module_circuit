@@ -1,5 +1,7 @@
 # diyBMSv5_module_circuit
-Version 5 of the diyBMS
+Version 5 of the diyBMS, this repository contains the pcb project
+
+THIS IS A WIP VERSION, SO LAST MINUTE CHANGES COULD BE DONE!
 
 Do it yourself battery management system for Lithium ion battery packs/cells
 
@@ -7,7 +9,6 @@ If you are looking for version 4 of this project take a look here https://github
 
 # TRAVIS-CI
 TODO
-
 
 # Videos on how to use and build
 

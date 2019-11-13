@@ -1,10 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
 From  : Variant [[No Variations]] of PCB Document [board.PcbDoc]
-   Generated File[Pick Place for board.txt]
+   Generated File[Pick Place for board.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 17:12:19 On 12/11/2019
+Finished Output Generation At 02:02:04 On 13/11/2019

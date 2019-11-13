@@ -2,26 +2,6 @@
 FileName = board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : board.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : board.GTL
 
@@ -59,6 +39,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D68
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : board.GBP
 
@@ -70,17 +61,6 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Outline
-      File : board.GM1
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D53
 *************************************************************
 
 *************************************************************
@@ -102,31 +82,6 @@ Used DCodes :
     D35
     D36
     D37
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : board.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
 *************************************************************
 
 *************************************************************
@@ -166,14 +121,59 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : board.GBO
+Generating : Outline
+      File : board.GM1
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Outline
 
 
 Used DCodes :
-    D68
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
 *************************************************************
 
 *************************************************************
